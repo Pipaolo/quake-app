@@ -39,7 +39,7 @@ dependencies:
   quake_safe_platform_client:
     path: ./packages/quake_safe_platform_client
   reactive_forms: ^16.1.1
-  supabase_flutter: ^2.3.0
+  supabase_flutter: ^2.5.2
   timeago: ^3.6.1
   user_repository:
     path: ./packages/user_repository
